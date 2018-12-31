@@ -96,7 +96,6 @@
         <module>springcloudeureka7001</module>
         <module>springcloudeureka7002</module>
         <module>springcloudeureka7003</module>
-        <module>springcloudcustomerdept80</module>
         <module>springcloudconsumerdeptfeign</module>
         <module>springcloudproviderdepthystrix8001</module>
         <module>springcloudconsumerhystrixdashboard9001</module>
@@ -105,6 +104,7 @@
         <module>springcloudconfigclient3355</module>
         <module>springcloudconfigeurekaclient7001</module>
         <module>springcloudconfigdeptclient8001</module>
+        <module>springcloudconsumerdept80</module>
     </modules>
 
 
