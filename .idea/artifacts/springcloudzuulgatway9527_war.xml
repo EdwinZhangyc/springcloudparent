@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springcloudzuulgatway9527:war">
+    <output-path>$PROJECT_DIR$/springcloudzuulgatway9527/target</output-path>
+    <root id="archive" name="springcloud-zuul-gatway-9527.war">
+      <element id="artifact" artifact-name="springcloudzuulgatway9527:war exploded" />
+    </root>
+  </artifact>
+</component>

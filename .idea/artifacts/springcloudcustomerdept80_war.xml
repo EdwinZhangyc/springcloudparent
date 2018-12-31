@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springcloudcustomerdept80:war">
+    <output-path>$PROJECT_DIR$/springcloudcustomerdept80/target</output-path>
+    <root id="archive" name="springcloud-customer-dept-80.war">
+      <element id="artifact" artifact-name="springcloudcustomerdept80:war exploded" />
+    </root>
+  </artifact>
+</component>
